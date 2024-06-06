@@ -21,18 +21,18 @@ To get started with the Python Quiz Game, follow these steps:
 2. **Navigate to the project directory:**
     cd python-quizgame
 
-**No installation of dependencies required**
+3. **No installation of dependencies required**
 
 ## Usage
 
-To start the quiz game, simply run the following command:
+1. **To start the quiz game, simply run the following command:**
 
-```sh
-python quizgame.py
+    python Quiz.py
 
-Follow the on-screen instructions to answer the questions. Your score will be displayed at the end of the quiz.
+Follow the on-screen instructions to answer the questions. Your prize will be displayed at the end of the quiz.
 
-Contributing
+**Contributing**
+
 We welcome contributions to enhance the Python Quiz Game! If you have ideas for new features, bug fixes, or improvements, please fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
 
 1. Fork the repository
@@ -52,6 +52,7 @@ git push origin feature-branch
 5. Open a pull request
 
 **License**
+
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 **Acknowledgments**
@@ -60,4 +61,4 @@ Thank you to the Python community for their continuous support and contributions
 
 **Contact**
 
-Contact For any inquiries or issues, please open an issue on GitHub or contact me at [parsurambaral42@gmail.com].
+For any inquiries or issues, please open an issue on GitHub or contact me at **parsurambaral42@gmail.com**
