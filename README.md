@@ -16,7 +16,7 @@ Welcome to the Python Quiz Game! This interactive, command-line based quiz game 
 To get started with the Python Quiz Game, follow these steps:
 
 1. **Clone the repository:**
-    git clone https://github.com/yourusername/python-quizgame.git
+    git clone https://github.com/SubratZi/python-quizgame.git
 
 2. **Navigate to the project directory:**
     cd python-quizgame
